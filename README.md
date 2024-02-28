@@ -33,3 +33,5 @@ The steps for this assignment are divided into the following subsections:
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
+
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
